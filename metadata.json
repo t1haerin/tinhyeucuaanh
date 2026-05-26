@@ -1,0 +1,6 @@
+{
+  "name": "Kỷ Niệm 6 Tháng",
+  "description": "Một trang web kỷ niệm tình yêu 6 tháng ngập tràn cảm xúc, với thư tình, đếm thời gian, và những khoảnh khắc đẹp nhất.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
